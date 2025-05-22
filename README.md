@@ -1,7 +1,3 @@
-Certainly! Here's an enhanced `README.md` file for the [Sentient-Rolodex-backend](https://github.com/Suyashtiwary12/Sentient-Rolodex-backend) repository, incorporating additional details and features:
-
----
-
 # Sentient Rolodex Backend
 
 The Sentient Rolodex Backend is a Python-based RESTful API designed to manage contact information efficiently. It provides endpoints for creating, reading, updating, and deleting contact entries, facilitating seamless integration with frontend applications.
